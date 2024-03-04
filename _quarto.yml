@@ -9,10 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+        text: About
 
 format:
   html:
-    theme: darkly
+    theme: cosmos
     css: styles.css
     toc: true
 
