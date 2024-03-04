@@ -10,7 +10,14 @@ website:
         text: Home
       - about.qmd
         text: About
-
+      - about.qmd
+        text: Labs
+      - Labs.qmd
+        text: Project
+      - Project.qmd
+        text: Presentation
+      -Presentation.qmd
+      
 format:
   html:
     theme: cosmos
